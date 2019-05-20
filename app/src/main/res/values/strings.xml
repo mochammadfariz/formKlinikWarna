@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">formKlinik</string>
+
+    <string-array name="klinik">
+        <item>Pilih Klinik</item>
+        <item>Salsabila MC Cikaret</item>
+        <item>Salsabila MC Pemda</item>
+        <item>Klinik Denti Sari</item>
+
+    </string-array>
+
+    <string-array name="poli">
+        <item>Pilih poli</item>
+        <item>Umum</item>
+        <item>Gigi</item>
+        <item>Kandungan</item>
+        <item>Laboratorium</item>
+        <item>Skin Care</item>
+    </string-array>
+
+
+</resources>
